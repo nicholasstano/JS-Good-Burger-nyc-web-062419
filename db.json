@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,36 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "description": "It Is Good.",
+      "image": "https://www.burger21.com/wp-content/uploads/2018/05/Bacon-Cheesy-1.jpg",
+      "id": 12
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "description": "It Is Good.",
+      "image": "https://www.burger21.com/wp-content/uploads/2018/05/Bacon-Cheesy-1.jpg",
+      "id": 13
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "description": "It Is Good.",
+      "image": "https://www.burger21.com/wp-content/uploads/2018/05/Bacon-Cheesy-1.jpg",
+      "id": 14
+    },
+    {
+      "name": "All American Burger",
+      "description": "w/ fries",
+      "image": "https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/lunch-dinner_burgers_all-american-burger.jpg",
+      "id": 15
+    },
+    {
+      "name": "All American Burger",
+      "description": "w/ FRIEZ",
+      "image": "https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/lunch-dinner_burgers_all-american-burger.jpg",
+      "id": 16
     }
   ]
 }
