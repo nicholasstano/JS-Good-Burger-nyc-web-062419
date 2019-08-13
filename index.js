@@ -59,8 +59,8 @@ customForm.addEventListener("submit", function (e) {
     .then(burger => {
       menuContainer.insertAdjacentHTML("beforeend",
         `< div class= "burger" > <h3 class="burger-title">${burger.name}</h3>
-    <img src=${burger.image}><p class="burger-description">${burger.description}</p>
-      <button data-id=${burger.id} class="button">Add to Order</button>
+        <img src=${burger.image}><p class="burger-description">${burger.description}</p>
+        <button data-id=${burger.id} class="button">Add to Order</button>
         </div>`)
       e.target.name.value = ""
       e.target.description.value = ""
